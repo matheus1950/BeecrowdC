@@ -1,8 +1,4 @@
-<p float="left">
-
- <img src="https://br.linkedin.com/in/celso-ricardo-barboza-96941a82(https://media.licdn.com/dms/image/C4D16AQF_ns2EbPb-4Q/profile-displaybackgroundimage-shrink_200_800/0/1651777931197?e=2147483647&v=beta&t=22_j7_uP3aQmvNNvpk9XtpQdLZZpDpyonNTG9NaxlnU)](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w7dcihvaipthnr6qbv6z)"/>
-
-</p>
+![Beecrowd]([http://url/to/img.png](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/w7dcihvaipthnr6qbv6z))
 
 Questoes Resolvidas - Beecrowd
 
