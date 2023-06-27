@@ -1,8 +1,6 @@
 <p float="left">
 
- <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />
-
- <img src="https://user-images.githubusercontent.com/105131652/186226781-c57b7eca-b9b8-44fd-9439-05f1383bd079.jpg" width="200" /> 
+ <img src="[https://br.linkedin.com/in/celso-ricardo-barboza-96941a82](https://media.licdn.com/dms/image/C4D16AQF_ns2EbPb-4Q/profile-displaybackgroundimage-shrink_200_800/0/1651777931197?e=2147483647&v=beta&t=22_j7_uP3aQmvNNvpk9XtpQdLZZpDpyonNTG9NaxlnU)" width="200" />
 
 </p>
 
